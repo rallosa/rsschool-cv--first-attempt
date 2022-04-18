@@ -13,7 +13,7 @@ Country: **Ukraine** <br>
 City: **Kiev** <br>
 Phone: *+380631239377* <br>
 E-mail: **<rallo83@gmail.com>** <br>
-GitHub: **[@RalloSA](https://github.com/rallosa){:target="_blank"}** <br>
+GitHub: **[@RalloSA](https://github.com/rallosa)** <br>
 
 ---
 
@@ -72,7 +72,7 @@ function duplicateEncode(word) {
 ## Education
 
 - Kyiv Polytechnic Institute (2000 - 2005) Faculty of Heat and Power Engineering
-- [Certificate of courses from Ed-Era 'Basics of web development (HTML, CSS, JavaScript)'](./images/certificate-ed-era.pdf){:target="_blank"} Published 10.04.2022
+- [Certificate of courses from Ed-Era 'Basics of web development (HTML, CSS, JavaScript)'](./images/certificate-ed-era.pdf) Published 10.04.2022
 
 ---
 
