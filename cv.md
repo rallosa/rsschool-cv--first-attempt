@@ -1,5 +1,3 @@
-[rssshool-cv](https://rallosa.github.io/rsschool-cv/cv)
-
 <time datetime="2022-04-18 00:02">18.04.2022</time>
 
 ---
